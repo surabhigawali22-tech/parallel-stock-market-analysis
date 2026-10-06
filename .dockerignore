@@ -1,0 +1,9 @@
+.git
+.gitignore
+.DS_Store
+build/
+node_modules/
+benchmark/results/
+nse_2000000.csv
+data/nse_1000000.csv
+data/nse_2000000.csv
